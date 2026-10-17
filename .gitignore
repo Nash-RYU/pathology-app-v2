@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# pip install ゴミ (=0.27 など)
+=*
+
+# ローカルデータ・バックアップ
+backup/
+*.log
+
+# OS
+.DS_Store
